@@ -1,0 +1,84 @@
+{
+  "listings": [
+    {
+      "neighborhood": "Maplewood",
+      "price": 950000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "house_size": 3200,
+      "description": "Discover luxury living in Maplewood with this stunning 4-bedroom, 3.5-bathroom home. Featuring a grand foyer, gourmet kitchen with granite countertops, and a spacious family room with a fireplace. The master suite offers a spa-like bathroom and walk-in closet. Enjoy outdoor entertaining on the expansive deck overlooking a beautifully landscaped yard."
+    },
+    {
+      "neighborhood": "Lakeview",
+      "price": 750000,
+      "bedrooms": 3,
+      "bathrooms": 2.0,
+      "house_size": 1800,
+      "description": "Charming 3-bedroom, 2-bathroom home in the desirable Lakeview neighborhood. This property features an open floor plan with a modern kitchen, hardwood floors, and a cozy fireplace. The backyard is perfect for gatherings, complete with a patio and lush greenery. Just a short walk to the lake and local amenities."
+    },
+    {
+      "neighborhood": "Cedar Heights",
+      "price": 500000,
+      "bedrooms": 2,
+      "bathrooms": 1.0,
+      "house_size": 1100,
+      "description": "Nestled in Cedar Heights, this delightful 2-bedroom home offers a peaceful retreat. The interior boasts a bright living area, updated kitchen, and a sunroom perfect for relaxation. The large backyard is ideal for gardening enthusiasts. Close to parks and shopping, this home is a must-see."
+    },
+    {
+      "neighborhood": "Riverbend",
+      "price": 1200000,
+      "bedrooms": 5,
+      "bathrooms": 4.0,
+      "house_size": 4000,
+      "description": "Experience elegance in Riverbend with this exquisite 5-bedroom, 4-bathroom estate. Featuring a grand entrance, chef's kitchen, and a formal dining room. The master suite includes a private balcony and luxurious en-suite bathroom. The outdoor space offers a pool, hot tub, and outdoor kitchen, perfect for entertaining."
+    },
+    {
+      "neighborhood": "Pine Valley",
+      "price": 680000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "house_size": 2100,
+      "description": "Welcome to Pine Valley, where this beautiful 3-bedroom, 2.5-bathroom home awaits. Enjoy the open-concept living area, modern kitchen with stainless steel appliances, and a cozy fireplace. The master suite features a walk-in closet and en-suite bathroom. The backyard is perfect for summer barbecues with a spacious patio."
+    },
+    {
+      "neighborhood": "Willow Creek",
+      "price": 850000,
+      "bedrooms": 4,
+      "bathrooms": 3.0,
+      "house_size": 2800,
+      "description": "This stunning 4-bedroom, 3-bathroom home in Willow Creek offers a perfect blend of comfort and style. The home features a gourmet kitchen, formal living and dining rooms, and a family room with a fireplace. The master suite includes a luxurious bathroom and walk-in closet. Enjoy the beautifully landscaped backyard with a covered patio."
+    },
+    {
+      "neighborhood": "Sunset Hills",
+      "price": 720000,
+      "bedrooms": 3,
+      "bathrooms": 2.0,
+      "house_size": 1900,
+      "description": "Located in the serene Sunset Hills, this 3-bedroom, 2-bathroom home offers breathtaking views and modern amenities. The open floor plan includes a spacious living area, updated kitchen, and a master suite with a private bath. The outdoor space features a deck and garden, perfect for enjoying the sunset."
+    },
+    {
+      "neighborhood": "Oakwood",
+      "price": 530000,
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "house_size": 1300,
+      "description": "Charming 2-bedroom, 1.5-bathroom home in the heart of Oakwood. This property features a cozy living room, updated kitchen, and a sunroom. The backyard is perfect for entertaining with a patio and mature trees. Conveniently located near schools and shopping."
+    },
+    {
+      "neighborhood": "Brookside",
+      "price": 980000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "house_size": 3500,
+      "description": "Luxury awaits in Brookside with this magnificent 4-bedroom, 3.5-bathroom home. Featuring a grand entrance, gourmet kitchen, and a spacious family room with a fireplace. The master suite offers a spa-like bathroom and walk-in closet. The outdoor space includes a pool and patio, perfect for entertaining."
+    },
+    {
+      "neighborhood": "Meadow Park",
+      "price": 640000,
+      "bedrooms": 3,
+      "bathrooms": 2.0,
+      "house_size": 2000,
+      "description": "Discover this beautiful 3-bedroom, 2-bathroom home in Meadow Park. The open floor plan includes a modern kitchen, living room with a fireplace, and a master suite with an en-suite bathroom. The backyard is perfect for gatherings with a deck and garden. Close to parks and schools."
+    }
+  ]
+}
